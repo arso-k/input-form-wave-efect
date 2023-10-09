@@ -1,10 +1,10 @@
-# [input-form-wave-efect](https://arso-k.github.io/input-form-wave-efect/)
+# [input-form-wave-effect ](https://arso-k.github.io/input-form-wave-efect/)
 #### Authors: Brad Traversy, Florin Pop
 ## Student: Arsonela Lalaj
 ### [See the live demo ](https://arso-k.github.io/input-form-wave-efect/)
-#### input-form-wave-efect: 
+#### input-form-wave-effect : 
 * design modyfied from the original course 
-* Simple input form with wave efect 
+* Simple input form with wave effect  
 * Tools used: HTML, CSS, and JavaScript
 * IDE used: VSCode
 
